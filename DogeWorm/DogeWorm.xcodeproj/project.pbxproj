@@ -26,6 +26,10 @@
 /* Begin PBXFileReference section */
 		BCAF591F29CA492B0049C562 /* Food.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Food.cpp; sourceTree = "<group>"; };
 		BCAF592029CA492B0049C562 /* Food.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Food.hpp; sourceTree = "<group>"; };
+		BCAF592129CA49890049C562 /* Worm.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Worm.cpp; sourceTree = "<group>"; };
+		BCAF592229CA49890049C562 /* Worm.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Worm.hpp; sourceTree = "<group>"; };
+		BCAF592329CA49AE0049C562 /* Power.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Power.cpp; sourceTree = "<group>"; };
+		BCAF592429CA49AE0049C562 /* Power.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = Power.hpp; sourceTree = "<group>"; };
 		E42962AC2163EDD300A6A9E2 /* ofCamera.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = ofCamera.cpp; path = ../../../Downloads/of_v0.11.2_osx_release/libs/openFrameworks/3d/ofCamera.cpp; sourceTree = SOURCE_ROOT; };
 		E42962AD2163EDD300A6A9E2 /* ofMesh.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ofMesh.h; path = ../../../Downloads/of_v0.11.2_osx_release/libs/openFrameworks/3d/ofMesh.h; sourceTree = SOURCE_ROOT; };
 		E42962AE2163EDD300A6A9E2 /* ofNode.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = ofNode.h; path = ../../../Downloads/of_v0.11.2_osx_release/libs/openFrameworks/3d/ofNode.h; sourceTree = SOURCE_ROOT; };
@@ -521,6 +525,10 @@
 			children = (
 				BCAF591F29CA492B0049C562 /* Food.cpp */,
 				BCAF592029CA492B0049C562 /* Food.hpp */,
+				BCAF592129CA49890049C562 /* Worm.cpp */,
+				BCAF592229CA49890049C562 /* Worm.hpp */,
+				BCAF592329CA49AE0049C562 /* Power.cpp */,
+				BCAF592429CA49AE0049C562 /* Power.hpp */,
 				E4B6FCAD0C3E899E008CF71C /* openFrameworks-Info.plist */,
 				E4EB6923138AFD0F00A09F29 /* Project.xcconfig */,
 				E4B69E1C0A3A1BDC003C02F2 /* src */,

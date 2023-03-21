@@ -1,4 +1,4 @@
-#include "Food.h"
+#include "Food.hpp"
 
 //Speed refers to the rate at which the food crosses the screen
 

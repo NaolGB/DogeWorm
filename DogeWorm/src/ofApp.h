@@ -2,9 +2,9 @@
 #pragma once
 
 #include "ofMain.h"
-#include "Worm.h"
-#include "Food.h"
-#include "Power.h"
+#include "Worm.hpp"
+#include "Food.hpp"
+#include "Power.hpp"
 
 class ofApp : public ofBaseApp{
 

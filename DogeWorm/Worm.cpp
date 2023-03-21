@@ -1,4 +1,4 @@
-#include "Worm.h"
+#include "Worm.hpp"
 
 Worm::Worm() {
     ofSetCircleResolution(50);

@@ -1,4 +1,4 @@
-#include "Power.h"
+#include "Power.hpp"
 
 void Power::draw(float strength) {
     //The surrounding outline

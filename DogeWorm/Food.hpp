@@ -5,23 +5,23 @@
 #include "ofMain.h"
 
 class GoodFood {
-public:
-    GoodFood();
+    public:
+        GoodFood();
 
-    void update();
-    void draw();
+        void update();
+        void draw();
 
-    glm::vec2 foodPosition;
-    float foodRadius, speed;
+        glm::vec2 foodPosition;
+        float foodRadius, speed;
 };
 
 class BadFood {
-public:
-    BadFood();
+    public:
+        BadFood();
 
-    void update();
-    void draw();
+        void update();
+        void draw();
 
-    glm::vec2 foodPosition;
-    float foodRadius, speed;
+        glm::vec2 foodPosition;
+        float foodRadius, speed;
 };
